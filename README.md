@@ -10,6 +10,8 @@ Clone the project, install the dependencies, and run the project.
 git clone https://github.com/searsaw/react-weather-app.git
 cd react-weather-app
 yarn # or npm install
+npm install react react-dom 
+
 yarn start # or npm run start
 ```
 
